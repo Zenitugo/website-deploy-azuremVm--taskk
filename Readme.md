@@ -10,10 +10,16 @@ Deploy a static website onto a cloud platform.
 
 - Server Configuration: Configure the chosen web server (NGINX or Apache) on your cloud instance to serve your website content.
 
- ## Task Solution
- I used a terraform script to create this infrastructure and to configure it by installing apache2 and deploying the static website
+ # Task Solution
 
- I got the website template from (https://free-css.com/free-css-templates)
+## Architectural flow
+![architectural flow](./images/Blank%20diagram.png)
+
+
+## Terraform
+I used a terraform script to create this infrastructure and to configure it by installing apache2 and deploying the static website
+
+I got the website template from (https://free-css.com/free-css-templates)
 
 ### Virtual network created
 ![vnet](./images/vnet.png)
