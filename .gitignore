@@ -1,0 +1,5 @@
+terraform-root-modules/.terraform.lock.hcl
+terraform-root-modules/.terraform/
+terraform-root-modules/terraform.tfstate
+terraform-root-modules/terraform.tfstate.backup
+terraform-root-modules/terraform.tfvars
